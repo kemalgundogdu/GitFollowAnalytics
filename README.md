@@ -1,3 +1,8 @@
+# Photos
+Example              
+:-------------------------:
+![Password Generator](./example.jpeg)
+
 # EN - GitHub Followers Analyzer
 
 This project is a GitHub followers analyzer application developed using Python. It fetches and analyzes the followers of a specified GitHub user.
